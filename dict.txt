@@ -1,0 +1,4 @@
+hello: 你好
+world: 世界
+apple: 苹果
+linux: 操作系统
